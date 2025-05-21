@@ -6,8 +6,8 @@
  */
 return [
     'db_host'    => 'localhost',
-    'db_name'    => 'viedece',    // attention au nom exact de ta base
-    'db_user'    => 'root',       // utilisateur XAMPP par défaut
-    'db_pass'    => '',           // mot de passe vide par défaut
+    'db_name'    => 'viedece',    
+    'db_user'    => 'root',       
+    'db_pass'    => '',           
     'db_charset' => 'utf8mb4',
 ];
